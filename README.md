@@ -115,4 +115,4 @@ RentSmart/
 
 ## Links
 
-- Vídeo pitch: _inserir link do YouTube_
+- Vídeo pitch: https://youtu.be/qBZc_npetE8
