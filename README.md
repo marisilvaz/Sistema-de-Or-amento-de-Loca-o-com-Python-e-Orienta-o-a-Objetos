@@ -42,8 +42,8 @@ python --version
 
 ```bash
 # 1. Baixe o projeto
-git clone https://github.com/SEU-USUARIO/RentSmart.git
-cd RentSmart
+git clone https://github.com/marisilvaz/Sistema-de-Or-amento-de-Loca-o-com-Python-e-Orienta-o-a-Objetos.git
+cd Sistema-de-Or-amento-de-Loca-o-com-Python-e-Orienta-o-a-Objetos
 
 # 2. Execute
 python main.py
